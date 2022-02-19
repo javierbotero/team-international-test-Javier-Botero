@@ -1,0 +1,22 @@
+{
+  "name": "team-international-test-Javier-Botero",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/javierbotero/team-international-test-Javier-Botero.git",
+  "author": "javierbotero <javierbotero10271@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.17.5",
+    "@babel/preset-env": "^7.16.11",
+    "babel-jest": "^27.5.1",
+    "eslint": "^7.32.0",
+    "jest": "^27.5.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4"
+  }
+}
